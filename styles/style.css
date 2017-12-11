@@ -1,0 +1,43 @@
+html {
+    font-family: 'Spectral SC', serif;
+    background-color: rgb(167, 211, 167);
+}
+
+body {
+    width: 80%;
+    margin: 20px auto;
+    background-color: rgb(88, 143, 88);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0; 
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+    text-shadow: 3px 5px 1px black;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    border: 5px solid rgb(255, 255, 255);
+    float: left;
+    margin: 10px 30px;
+}
+
+p, li {
+    text-align: justify;
+    font-size: 20px;
+}
+
+footer {
+    margin: 10px 30px;
+    clear: left;
+}
+
+footer p {
+    text-align: center;
+}
